@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/yassine-lahssini-769972293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Rabat,_Morocco-C8102E?style=for-the-badge" alt="Rabat, Morocco">
 </p>
 
