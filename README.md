@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yassine-lahssini-769972293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:l.yassine.1445pro@gmail.com"><img src="https://img.shields.io/badge/Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=C89B3C" alt="Email"></a>
   <img src="https://img.shields.io/badge/Rabat,_Morocco-C8102E?style=for-the-badge" alt="Rabat, Morocco">
 </p>
 
