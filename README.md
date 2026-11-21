@@ -30,12 +30,12 @@
 | **CS fundamentals** | Algorithms · Data structures (linked lists, stacks, queues) · C memory management |
 | **Maths &amp; engineering** | Probability &amp; statistics · Optimization · Convolution · Signals &amp; systems · Transmission lines |
 | **Business** | Strategic analysis · Marketing (STP, market research) · Financial accounting · E-commerce (Shopify) |
-| **Tools** | Git · GitHub · VS Code · Notion · Windows |
+| **Tools** | Git · GitHub · VS Code · Notion · Windows · Linux |
 
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,js,html,css,flask,nodejs,git,github,vscode,notion,discord,windows&perline=7" alt="Skill icons">
+  <img src="https://skillicons.dev/icons?i=py,c,js,html,css,flask,nodejs,git,github,vscode,notion,discord,windows,linux&perline=7" alt="Skill icons">
 </p>
 
 <p align="center">
