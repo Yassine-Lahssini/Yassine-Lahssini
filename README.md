@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,100:C89B3C&height=200&section=header&text=Yassine%20Lahssini&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Computer%20Engineering%20%C2%B7%20Big%20Data%20%26%20AI&descSize=18&descAlignY=56&animation=fadeIn" alt="Yassine Lahssini">
+  <img width="100%" src="assets/banner.svg" alt="Yassine Lahssini">
 </p>
 
 <p align="center">
@@ -42,8 +42,4 @@
   <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API">
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API">
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify">
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C89B3C,100:1C1C1C&height=110&section=footer" alt="">
 </p>
